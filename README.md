@@ -1,1 +1,2 @@
 # E-commerce-Sales-Analysis-Python-Project-
+Cleaned, merged, and analyzed multi-year sales data across products, countries, and channels. Calculated KPIs, explored category, region, and sales patterns, analyzed time intervals and weekday/seasonal trends, and visualized insights with Python (Pandas, NumPy, Matplotlib, Seaborn). Delivered a detailed Colab report with actionable business conclusions.
